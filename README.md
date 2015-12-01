@@ -165,3 +165,5 @@ expect(response).to.be.a("array");
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/repl-response-mods' data-visibility='hidden'>Learn.co resource</a>
